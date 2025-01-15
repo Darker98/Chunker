@@ -1,6 +1,6 @@
-# File Download System
+# Chunker
 
-This project allows clients to download large files from multiple servers simultaneously. The file is segmented into smaller fragments and distributed across the servers. The client then downloads each fragment, combines them, and deletes the temporary files.
+This project allows clients to download large files from multiple servers simultaneously. The file is segmented into smaller fragments and distributed across the servers. The client then downloads each fragment and combines them.
 
 ## Client Operation
 
